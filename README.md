@@ -22,26 +22,21 @@ The platform allows users to **listen to devotional content and download it for 
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
-
 git clone https://github.com/harshvermavvv/kathasaar.git
-
 2️⃣ Navigate to the project folder
-
-cd sassu
-cd bhangi
-
+cd kathasaar
 3️⃣ Install dependencies
-
 npm install
-
 4️⃣ Start the server
+node server.js
 
+or (if configured)
 
-npm run dev
-
+npm start
 5️⃣ Open in Browser
 
 Go to:
+
 http://localhost:3000
 
 🤝 Contributing
