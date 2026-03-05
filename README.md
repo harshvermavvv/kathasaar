@@ -29,7 +29,7 @@ cd sassu
 ,
 cd bhangi
 
-3️⃣ Install dependencies:if needed
+3️⃣ Install dependencies(if needed):
 npm install
 
 4️⃣ Start the server:
