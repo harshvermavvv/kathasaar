@@ -33,7 +33,7 @@ cd bhangi
 npm install
 
 4️⃣ Start the server:
-npm start
+npm run dev
 
 5️⃣ Open in Browser Go to:
 http://localhost:3000
