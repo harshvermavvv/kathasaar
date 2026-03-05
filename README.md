@@ -36,7 +36,6 @@ npm install
 npm start
 
 5️⃣ Open in Browser Go to:
-
 http://localhost:3000
 
 
