@@ -27,13 +27,13 @@ Follow the steps below to run the project locally.
 
 1. Clone the Repository
 git clone https://github.com/harshvermavvv/kathasaar.git
-2. Navigate to the Project Directory
+2. Navigate to the Project Directory :
 cd sassu , cd bhangi
-3. Install Dependencies ( if needed )
+3. Install Dependencies ( if needed ) :
 npm install
-4. Start the Development Server
+4. Start the Development Server :
 npm run dev
-5. Open in Browser
+5. Open in Browser :
 http://localhost:3000
 
 
