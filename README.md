@@ -1,50 +1,57 @@
 KATHASAAR 🙏
 
-KATHASAAR is a spiritual content platform that provides devotional resources such as Aartis, Chalisas, and Ekadashi Vrat Kathas.
-The platform allows users to **listen to devotional content and download it for offline use, making spiritual content easily accessible anytime.
+KATHASAAR is a devotional content platform designed to provide easy access to spiritual resources such as Aartis, Chalisas, and Ekadashi Vrat Kathas.
+The platform enables users to stream devotional audio and download it for offline listening, making spiritual content accessible anytime and anywhere.
 
-✨ Features
+✨Features
 
-* 🎧 Listen to spiritual content (Aarti, Chalisa, Vrat Katha)
-* ⬇️ Download devotional content for offline listening
-* 🧘 Clean and simple interface
-* 📱 Accessible on web browsers
+1.Stream devotional audio including Aartis, Chalisas, and Vrat Kathas
 
-🛠 Tech Stack
+2.Download content for offline listening
 
-* Node.js
-* HTML
-* CSS
-* JavaScript
+3.Simple and user-friendly interface
 
-🚀 Installation & Setup
+Accessible through modern web browsers
 
-Follow these steps to run the project locally:
+Tech Stack
 
-1️⃣ Clone the repository:
+Backend: Node.js
+
+Frontend: HTML, CSS, JavaScript
+
+Runtime Environment: Node.js
+
+Installation & Setup
+
+Follow the steps below to run the project locally.
+
+1. Clone the Repository
 git clone https://github.com/harshvermavvv/kathasaar.git
-
-2️⃣ Navigate to the project folder:
-cd sassu 
-,
-cd bhangi
-
-3️⃣ Install dependencies(if needed):
+2. Navigate to the Project Directory
+cd kathasaar
+3. Install Dependencies
 npm install
-
-4️⃣ Start the server:
+4. Start the Development Server
 npm run dev
-
-5️⃣ Open in Browser Go to:
+5. Open in Browser
 http://localhost:3000
+Project Goal
 
+The goal of this project is to build a lightweight and accessible devotional platform that allows users to conveniently listen to and download spiritual content without relying on complex applications.
 
-🤝 Contributing
+Contributing
 
-Contributions are welcome!
-If you would like to improve this project, feel free to fork the repository and submit a pull request.
+Contributions are welcome. If you would like to improve the project:
 
-👨‍💻 Author
+Fork the repository
+
+Create a new branch
+
+Make your changes
+
+Submit a pull request
+
+Author
 
 Harsh Verma
 
