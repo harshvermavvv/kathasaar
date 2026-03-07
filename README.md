@@ -42,7 +42,7 @@ Project Goal
 The goal of this project is to build a lightweight and accessible devotional platform that allows users to conveniently listen to and download spiritual content without relying on complex applications.
 
 
-🤝Contributing
+🤝
 Contributions are welcome. If you would like to improve the project:
 
 Fork the repository
