@@ -11,9 +11,9 @@ The platform enables users to stream devotional audio and download it for offlin
 
 3.Simple and user-friendly interface
 
-Accessible through modern web browsers
+4.Accessible through modern web browsers
 
-Tech Stack
+🛠Tech Stack
 
 Backend: Node.js
 
@@ -21,7 +21,7 @@ Frontend: HTML, CSS, JavaScript
 
 Runtime Environment: Node.js
 
-Installation & Setup
+🚀Installation & Setup
 
 Follow the steps below to run the project locally.
 
@@ -35,12 +35,14 @@ npm install
 npm run dev
 5. Open in Browser
 http://localhost:3000
+
+
 Project Goal
 
 The goal of this project is to build a lightweight and accessible devotional platform that allows users to conveniently listen to and download spiritual content without relying on complex applications.
 
-Contributing
 
+🤝Contributing
 Contributions are welcome. If you would like to improve the project:
 
 Fork the repository
@@ -51,7 +53,7 @@ Make your changes
 
 Submit a pull request
 
-Author
+👨‍💻Author
 
 Harsh Verma
 
